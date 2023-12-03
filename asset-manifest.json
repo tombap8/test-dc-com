@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-dc-com/static/css/main.d7640c3c.css",
-    "main.js": "/test-dc-com/static/js/main.164d33a3.js",
+    "main.js": "/test-dc-com/static/js/main.f7ddf04d.js",
     "static/media/Ubuntu-Regular.woff2": "/test-dc-com/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
     "static/media/UbuntuCondensed-Regular.woff2": "/test-dc-com/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
     "index.html": "/test-dc-com/index.html",
     "main.d7640c3c.css.map": "/test-dc-com/static/css/main.d7640c3c.css.map",
-    "main.164d33a3.js.map": "/test-dc-com/static/js/main.164d33a3.js.map"
+    "main.f7ddf04d.js.map": "/test-dc-com/static/js/main.f7ddf04d.js.map"
   },
   "entrypoints": [
     "static/css/main.d7640c3c.css",
-    "static/js/main.164d33a3.js"
+    "static/js/main.f7ddf04d.js"
   ]
 }
